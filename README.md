@@ -1,3 +1,5 @@
+#### Please note that this skill is live on Alexa Skills Store
+
 # AlexaSkillSocceropedia
 
 ## skillname: socceropedia
